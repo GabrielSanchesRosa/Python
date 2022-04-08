@@ -1,6 +1,4 @@
-# Faça um programa que laia algo pelo teclado e 
-# mosre na tela o seu tipo primitivo e todas as 
-# informações possíveis sobre ele.
+# Faça um programa que laia algo pelo teclado e mosre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
 a = input('Digite algo: ')
 

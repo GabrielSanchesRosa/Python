@@ -1,5 +1,4 @@
-# Escreva m programa que converta uma temperatura 
-# digitada em °C e converta para °F.
+# Escreva m programa que converta uma temperatura digitada em °C e converta para °F.
 
 c = float(input('Informe a temperatura em °C: '))
 f = 9 * c / 5 + 32
